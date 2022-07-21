@@ -63,10 +63,6 @@ Flie>> New>> DBeaver>> DatabaseConnection>> PostgreSQL>> Next >> Download>> Fini
 # Aplicando Comandos em SQL
 
 ## Create
-````
-```
-
-
 ## Insert
 ## Update
 ## Delete
