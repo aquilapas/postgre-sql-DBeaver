@@ -65,6 +65,8 @@ Flie>> New>> DBeaver>> DatabaseConnection>> PostgreSQL>> Next >> Download>> Fini
 ## Create
 ````
 ```
+
+
 ## Insert
 ## Update
 ## Delete
