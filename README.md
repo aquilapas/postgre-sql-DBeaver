@@ -19,3 +19,15 @@ DBeaver é uma ferramenta de banco de dados universal gratuita e de código aber
 [Baixar e instalar PostgreSQL](https://www.postgresql.org/download/)
 
 [Baixar e instalar DBeaver](https://dbeaver.io/download/)
+
+# Tipos de dados (#tiposdedados)
+
+[Revisão dos tipos de dados do PostgreSQL](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-data-types/)
+
+# Instalação JDBC
+
+No DBeaver seguir os passos:
+Flie>> New>> DBeaver>> DatabaseConnection>> PostgreSQL>> Next >> Download>> Finish
+[Passo-a-passo](https://dbeaver.com/docs/wiki/Database-drivers/)
+
+
