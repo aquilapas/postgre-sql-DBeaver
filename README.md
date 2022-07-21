@@ -57,3 +57,20 @@ Flie>> New>> DBeaver>> DatabaseConnection>> PostgreSQL>> Next >> Download>> Fini
 ### DCL - Data Control Language
 - GRANT – permite que os usuários acessem privilégios no banco de dados
 - REVOKE – retira os privilégios de acesso dos usuários dados usando o comando GRANT
+
+# Conhecendo do DBeaver (#dbeaver)
+
+# Aplicando Comandos em SQL
+
+## Create
+## Insert
+## Update
+## Delete
+## Where
+## And
+## Or
+## Operadores Condicionais
+## Order By
+## Funções Agregadas - Count, Max, Min, AVG, SUM
+## Group By
+
