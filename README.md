@@ -7,6 +7,7 @@ Este repositório é um espaço reservado para armazenar o conteúdo de projetos
 - [Instalação de Ferramenta](#instalacaoferramentas)
 - [Instalação JDBC](#instalacaojdbc)
 - [Revisão de Conceitos e Linguagem SQL](#revisao)
+- [Conhecendo do DBeaver](#dbeaver)
 
 # Conhecendo as ferramentas (#ferramentas)
 
@@ -60,17 +61,17 @@ Flie>> New>> DBeaver>> DatabaseConnection>> PostgreSQL>> Next >> Download>> Fini
 
 # Conhecendo do DBeaver (#dbeaver)
 
-# Aplicando Comandos em SQL
+## Aplicando Comandos em SQL
 
-## Create
-## Insert
-## Update
-## Delete
-## Where
-## And
-## Or
-## Operadores Condicionais
-## Order By
-## Funções Agregadas - Count, Max, Min, AVG, SUM
-## Group By
+### Create
+### Insert
+### Update
+### Delete
+### Where
+### And
+### Or
+### Operadores Condicionais
+### Order By
+### Funções Agregadas - Count, Max, Min, AVG, SUM
+### Group By
 
